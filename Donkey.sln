@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donkey.Api", "donkey.api\Donkey.Api.csproj", "{2D7527DE-C6E4-4859-A8ED-BF62A66ABEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donkey.Client", "donkey.client\Donkey.Client.csproj", "{9A526729-F94B-4584-B85D-9BCDC74A2300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donkey.Shared", "donkey.shared\Donkey.Shared.csproj", "{70348EE5-78E4-4E60-910F-D2395132DB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D7527DE-C6E4-4859-A8ED-BF62A66ABEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D7527DE-C6E4-4859-A8ED-BF62A66ABEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D7527DE-C6E4-4859-A8ED-BF62A66ABEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D7527DE-C6E4-4859-A8ED-BF62A66ABEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A526729-F94B-4584-B85D-9BCDC74A2300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A526729-F94B-4584-B85D-9BCDC74A2300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A526729-F94B-4584-B85D-9BCDC74A2300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A526729-F94B-4584-B85D-9BCDC74A2300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70348EE5-78E4-4E60-910F-D2395132DB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70348EE5-78E4-4E60-910F-D2395132DB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70348EE5-78E4-4E60-910F-D2395132DB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70348EE5-78E4-4E60-910F-D2395132DB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
